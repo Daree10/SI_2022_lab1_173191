@@ -1,5 +1,5 @@
 fish x2
-chips x3
+chips x4
 spaghetti x1 
 sauce x2
-icecream x3
+icecream x2
