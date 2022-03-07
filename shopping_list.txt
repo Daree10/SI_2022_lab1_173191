@@ -1,5 +1,5 @@
-fish 
-chips 
-spaghetti 
-sauce
-icecream
+fish x2
+chips x3
+spaghetti x1 
+sauce x2
+icecream x3
