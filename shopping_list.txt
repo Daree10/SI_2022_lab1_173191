@@ -1,5 +1,13 @@
 fish x2
 chips x4
 spaghetti x1 
+<<<<<<< HEAD
 sauce x2
 icecream x2
+=======
+sauce x1
+icecream x3
+tomato x6
+>>>>>>> branch2
+sauce x1
+tomato x6
