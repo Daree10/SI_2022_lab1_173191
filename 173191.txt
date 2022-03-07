@@ -1,0 +1,20 @@
+1. git clone https://github.com/Daree10/SI_2022_lab1_173191                     //ja kopiravme papkata na nasiot desktop
+2. git add shopping_list.txt                           //ja stavame na stage za komitiranje
+3. git commit -m “Add 5 items to the shopping list”                  //izvrsiv komitiranje 
+4. git commit -a -m "Add quantities to the items."                      //izvrsivme komitiranje i posle slednite promeni
+5. git branch branch1                                    //kreiravme granka so ime branch 1
+6. git branch branch2                                    //kreiravme granka so ime branch 2 
+7. git push                                                         //koristevme git push za da ja uploadirame lokalnata rep content vo remote rep
+8. git push origin branch1                            //go updejtirame remote repo so local commits
+9. git push origin branch 2                           //go updejtirame remote repo so local commits
+10. git checkout branch1                             //se preflame na branch1
+11. git add shopping_list.txt                        //ja stavame na stage za komitiranje
+12. git commit -m "Change quantity of item #5"                      //komitiranje na promenite
+13. git checkout master                                                                  //se prefrlame na branchot master
+14. git add shopping_list.txt                                                          //ja stavame na stage za komitiranje
+15. git commit -m "Change quantity of item #2"                      //komitiranje na promenite
+16. git checkout branch1                                                               //se prefrlame na branch1
+17. git push --set-upstream origin branch1                               // ja postavuva na github momentalnata granka kade sto se naogjame
+18. git checkout branch2                                                               //se prefrlame na branch2
+19. git add shopping_list.txt                                                          //ja stavame na stage za komitiranje
+20. git commit -m "Modify item #4"                                            //komitiranje na promenite
