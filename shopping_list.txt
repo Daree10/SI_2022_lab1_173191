@@ -3,3 +3,4 @@ chips x3
 spaghetti x1 
 sauce x1
 icecream x3
+tomato x6
